@@ -1,0 +1,8 @@
+#!/bin/bash
+
+export GITHUB_USERNAME="your_github_username"
+
+export GITHUB_REPOSITORY="se2001-23f1002867"
+
+echo "GITHUB_USERNAME=$GITHUB_USERNAME"
+echo "GITHUB_REPOSITORY=$GITHUB_REPOSITORY"
