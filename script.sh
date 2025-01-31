@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export GITHUB_USERNAME="your_github_username"
+export GITHUB_USERNAME="SubhashPachar"
 
 export GITHUB_REPOSITORY="se2001-23f1002867"
 
